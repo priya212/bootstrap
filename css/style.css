@@ -1,0 +1,103 @@
+body
+{
+	font-family: 'Heebo', sans-serif;
+}
+.card-group
+{
+	padding-top: 30px;
+}
+.card 
+{
+	text-align: center;
+}
+.row p
+{
+	margin-top: 0px;	
+}
+.row a
+{
+	color: black;
+}
+.row a:hover
+{
+	color: blue;
+	font-size: 40px;
+}
+#demo
+{
+	padding-top: 2	0px;
+}
+.jumbotron
+{
+	background: url('../img/heroimg.png') center center no-repeat;
+	background-size: cover;
+	color: black;
+	height: 400px;
+	margin-top: 60px;
+	text-align: center;
+	align-items: center;
+}
+.jumbotron input
+{
+	font-size: 20px;
+}
+.jumbotron h2,p
+{
+	margin-top: 80px;
+}
+.jumbotron h2
+{
+	background: rgba(0,0,0,0.4);
+	color: white;
+}
+.more_about
+{
+	padding-top: 50px;
+}
+.more_about p
+{
+	margin-top: 0px;
+}
+.carousel-inner h2,p
+{
+	color: black;
+}
+.carousel-inner p
+{
+	margin-top: 0px;
+	
+}
+footer
+{
+	padding-top: 30px;
+}
+.carousel_heading
+{
+	text-align: center;
+	margin-top: 40px;
+}
+.tab a:hover
+{
+	font-size: 20px;
+}
+.carousel-item img
+{
+	margin-bottom: 20px;
+}
+.nav-tabs a
+{
+	margin-right: 20px;
+}
+.tabbable_heading
+{
+	text-align: center;
+}
+.modal{
+	color: white;
+	font-size: 30px;
+}
+.modal-title
+{
+	font-size: 50px;
+	margin: auto;
+}
